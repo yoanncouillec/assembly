@@ -1,0 +1,14 @@
+* Inputs
+1. First argument: %rdi
+2. Second argument: %rsi
+3. Third argument: %rdx
+4. Fourth argument: %rcx
+5. Fifth argument: %r8
+6. Sixxth argument: %r9
+
+* Output
+1. First: %rax
+2. Second: %rdx
+
+* SYSCALL
+/usr/include/sys/syscall.h

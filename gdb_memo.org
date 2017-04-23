@@ -1,0 +1,7 @@
+* GDB commands
+- info files: show entry point
+- info frames: show stack address
+- x/100x $rsp: print 10 first words since stack pointer
+- disassemble: show asm instructions
+- nexti: step over function call
+- stepi: step into function call
