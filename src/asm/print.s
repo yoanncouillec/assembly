@@ -9,4 +9,3 @@ _main:
 	callq	_printf
 	popq	%rbp
 	retq
-

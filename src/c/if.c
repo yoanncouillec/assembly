@@ -5,5 +5,10 @@ int sub(int a, int b){
   return inc(a) - b;
 }
 int main() {
-  return sub(99,1);
+  if (sub(99,1) == 0){
+    return 22;
+  }
+  else {
+    return 33;
+  }
 }
